@@ -1,2 +1,2 @@
 # Single-price-grid-component
-This is a cg=hallenge by Front-end mentor.
+This is a challenge by Front-end mentor.
